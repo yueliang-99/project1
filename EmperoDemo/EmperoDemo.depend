@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492930707 source:c:\programme\emperodemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
